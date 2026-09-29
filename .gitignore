@@ -1,0 +1,21 @@
+# Binaries
+/pulsar_tool
+/pt
+*.exe
+*.out
+*.test
+
+# Coverage
+coverage.out
+coverage.html
+
+# Build / vendor
+/vendor/
+/dist/
+/bin/
+
+# Editor / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
